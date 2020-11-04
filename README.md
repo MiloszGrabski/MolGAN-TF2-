@@ -1,4 +1,4 @@
-#MolGAN TF2+
+# MolGAN TF2+
 
 Simplified TensorFlow 2.0+ implementation of MolGAN: An implicit generative model for small molecular graphs (https://arxiv.org/abs/1805.11973)
 The original tensorflow code can be found here: https://github.com/nicola-decao/MolGAN
